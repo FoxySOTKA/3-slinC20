@@ -4,9 +4,17 @@
 
 ### Задание 1.
 
-Выполните systemd-analyze blame.
+Выполните `systemd-analyze blame`.
 
 *Укажите, какие модули загружаются дольше всего.*
+
+Дольше всего у меня загружаются: 
+
+* man-db.service 4,149 секунды; 
+
+* dev-sda1.device 3,452 секунды; 
+
+* wpa_supplicant.service 2,042 секунды.
 
 ---
 
