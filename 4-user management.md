@@ -22,7 +22,7 @@
 
 ![2з](https://github.com/user-attachments/assets/03e5b1ac-ad1a-4386-9129-96d32b2d878a)
 
-`                                                                           `
+
 
 Проверил с помощью `ls -l` изменения прав:
 
